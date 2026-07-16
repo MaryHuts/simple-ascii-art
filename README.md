@@ -8,16 +8,10 @@ Program pyta użytkownika o wprowadzenie jednego znaku, a następnie za pomocą 
 ## Przykładowy efekt:
 Wpisz znak: +
 
-   ++     ++
-   
- ++++++ ++++++
- 
-+++++++++++++++
-
- +++++++++++++
- 
-   +++++++++
-   
-     +++++
-     
-       +
+         ++     ++   
+       ++++++ ++++++ 
+      +++++++++++++++
+       +++++++++++++ 
+         +++++++++   
+           +++++     
+             +
